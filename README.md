@@ -1,2 +1,2 @@
 # php hahahalib hard license
-限制較多 ex. LGPL
+比較嚴格 ex. LGPL
