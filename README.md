@@ -1,2 +1,2 @@
-# php_hahahalib_hard_license
+# php hahahalib hard license
 限制較多 ex. GPL
